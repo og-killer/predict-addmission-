@@ -1,0 +1,6 @@
+{
+  "name": "PakAdmission - Portal & AI Assistant",
+  "description": "Smart Pakistan university admission predictor, merit formula calculator, entry test prep, and PakAdmission AI Assistant powered by Gemini and verified university database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
